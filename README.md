@@ -1,4 +1,4 @@
-# 🌿 BiteBudget
+# BiteBudget
 
 > AI-powered meal planning and grocery savings for families on a budget.
 
